@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Big text about texting many texts
 Use the left arrow to go back!
